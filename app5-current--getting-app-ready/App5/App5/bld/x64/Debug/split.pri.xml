@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="e3f10fc1-365d-4d2e-b488-7e61baad9bf4" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>en-US</Language>
+			<Scale>100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="default.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/default.html">
+				<Candidate type="Path">
+					<Value>default.html</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="packages.config" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/packages.config">
+				<Candidate type="Path">
+					<Value>packages.config</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="css">
+				<NamedResource name="default.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/css/default.css">
+					<Candidate type="Path">
+						<Value>css\default.css</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="another_logo.jpg" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/images/another_logo.jpg">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\another_logo.scale-100.jpg</Value>
+					</Candidate>
+					<Candidate type="Path">
+						<Value>images\another_logo.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="bar1.jpg" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/images/bar1.jpg">
+					<Candidate type="Path">
+						<Value>images\bar1.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="lemonLime.jpg" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/images/lemonLime.jpg">
+					<Candidate type="Path">
+						<Value>images\lemonLime.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LemonLimeZero.jpg" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/images/LemonLimeZero.jpg">
+					<Candidate type="Path">
+						<Value>images\LemonLimeZero.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo.png" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/images/logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo1.jpg" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/images/logo1.jpg">
+					<Candidate type="Path">
+						<Value>images\logo1.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo_avatar.png" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/images/logo_avatar.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\logo_avatar.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo_footer.png" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/images/logo_footer.png">
+					<Candidate type="Path">
+						<Value>images\logo_footer.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo_footer_background.png" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/images/logo_footer_background.png">
+					<Candidate type="Path">
+						<Value>images\logo_footer_background.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo_splash.png" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/images/logo_splash.png">
+					<Candidate type="Path">
+						<Value>images\logo_splash.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pomAcia.jpg" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/images/pomAcia.jpg">
+					<Candidate type="Path">
+						<Value>images\pomAcia.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/images/SmallLogo.png"/>
+				<NamedResource name="splash_screen_logo.png" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/images/splash_screen_logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\splash_screen_logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="storelogo.png" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/images/storelogo.png"/>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="js">
+				<NamedResource name="auth.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/js/auth.js">
+					<Candidate type="Path">
+						<Value>js\auth.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ChangeApp.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/js/ChangeApp.js">
+					<Candidate type="Path">
+						<Value>js\ChangeApp.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="dataBaseGather.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/js/dataBaseGather.js">
+					<Candidate type="Path">
+						<Value>js\dataBaseGather.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="dataStore.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/js/dataStore.js">
+					<Candidate type="Path">
+						<Value>js\dataStore.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="default.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/js/default.js">
+					<Candidate type="Path">
+						<Value>js\default.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="gatherInfo.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/js/gatherInfo.js">
+					<Candidate type="Path">
+						<Value>js\gatherInfo.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="jquery.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/js/jquery.js">
+					<Candidate type="Path">
+						<Value>js\jquery.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MobileServices.intellisense.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/js/MobileServices.intellisense.js">
+					<Candidate type="Path">
+						<Value>js\MobileServices.intellisense.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MobileServices.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/js/MobileServices.js">
+					<Candidate type="Path">
+						<Value>js\MobileServices.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MobileServices.min.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/js/MobileServices.min.js">
+					<Candidate type="Path">
+						<Value>js\MobileServices.min.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MobileServices.pri" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/js/MobileServices.pri">
+					<Candidate type="Path">
+						<Value>js\MobileServices.pri</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="myAzure.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/js/myAzure.js">
+					<Candidate type="Path">
+						<Value>js\myAzure.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="navigator.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/js/navigator.js">
+					<Candidate type="Path">
+						<Value>js\navigator.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="removeInfo.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/js/removeInfo.js">
+					<Candidate type="Path">
+						<Value>js\removeInfo.js</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="pages">
+				<ResourceMapSubtree name="all_products">
+					<NamedResource name="all_products.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/all_products/all_products.css">
+						<Candidate type="Path">
+							<Value>pages\all_products\all_products.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="all_products.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/all_products/all_products.html">
+						<Candidate type="Path">
+							<Value>pages\all_products\all_products.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="all_products.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/all_products/all_products.js">
+						<Candidate type="Path">
+							<Value>pages\all_products\all_products.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="base">
+					<NamedResource name="base.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/base/base.css">
+						<Candidate type="Path">
+							<Value>pages\base\base.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="base.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/base/base.html">
+						<Candidate type="Path">
+							<Value>pages\base\base.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="base.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/base/base.js">
+						<Candidate type="Path">
+							<Value>pages\base\base.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="boost">
+					<NamedResource name="boost.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/boost/boost.css">
+						<Candidate type="Path">
+							<Value>pages\boost\boost.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="boost.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/boost/boost.html">
+						<Candidate type="Path">
+							<Value>pages\boost\boost.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="boost.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/boost/boost.js">
+						<Candidate type="Path">
+							<Value>pages\boost\boost.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="final">
+					<NamedResource name="final.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/final/final.css">
+						<Candidate type="Path">
+							<Value>pages\final\final.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="final.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/final/final.html">
+						<Candidate type="Path">
+							<Value>pages\final\final.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="final.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/final/final.js">
+						<Candidate type="Path">
+							<Value>pages\final\final.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="print.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/final/print.css">
+						<Candidate type="Path">
+							<Value>pages\final\print.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="flavor">
+					<NamedResource name="flavor.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/flavor/flavor.css">
+						<Candidate type="Path">
+							<Value>pages\flavor\flavor.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="flavor.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/flavor/flavor.html">
+						<Candidate type="Path">
+							<Value>pages\flavor\flavor.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="flavor.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/flavor/flavor.js">
+						<Candidate type="Path">
+							<Value>pages\flavor\flavor.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="flav_sel">
+					<NamedResource name="flav_sel.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/flav_sel/flav_sel.css">
+						<Candidate type="Path">
+							<Value>pages\flav_sel\flav_sel.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="flav_sel.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/flav_sel/flav_sel.html">
+						<Candidate type="Path">
+							<Value>pages\flav_sel\flav_sel.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="flav_sel.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/flav_sel/flav_sel.js">
+						<Candidate type="Path">
+							<Value>pages\flav_sel\flav_sel.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="home">
+					<NamedResource name="home.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/home/home.css">
+						<Candidate type="Path">
+							<Value>pages\home\home.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="home.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/home/home.html">
+						<Candidate type="Path">
+							<Value>pages\home\home.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="home.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/home/home.js">
+						<Candidate type="Path">
+							<Value>pages\home\home.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="info_home">
+					<NamedResource name="info_home.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/info_home/info_home.css">
+						<Candidate type="Path">
+							<Value>pages\info_home\info_home.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="info_home.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/info_home/info_home.html">
+						<Candidate type="Path">
+							<Value>pages\info_home\info_home.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="info_home.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/info_home/info_home.js">
+						<Candidate type="Path">
+							<Value>pages\info_home\info_home.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="item_info">
+					<NamedResource name="item_info.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/item_info/item_info.css">
+						<Candidate type="Path">
+							<Value>pages\item_info\item_info.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="item_info.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/item_info/item_info.html">
+						<Candidate type="Path">
+							<Value>pages\item_info\item_info.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="item_info.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/item_info/item_info.js">
+						<Candidate type="Path">
+							<Value>pages\item_info\item_info.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="launch_page">
+					<NamedResource name="launch_page.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/launch_page/launch_page.css">
+						<Candidate type="Path">
+							<Value>pages\launch_page\launch_page.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="launch_page.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/launch_page/launch_page.html">
+						<Candidate type="Path">
+							<Value>pages\launch_page\launch_page.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="launch_page.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/launch_page/launch_page.js">
+						<Candidate type="Path">
+							<Value>pages\launch_page\launch_page.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="login">
+					<NamedResource name="login.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login/login.css">
+						<Candidate type="Path">
+							<Value>pages\login\login.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="login.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login/login.html">
+						<Candidate type="Path">
+							<Value>pages\login\login.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="login.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login/login.js">
+						<Candidate type="Path">
+							<Value>pages\login\login.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="login_sessions">
+					<ResourceMapSubtree name="all_products">
+						<NamedResource name="all_products.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/all_products/all_products.css">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\all_products\all_products.css</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="all_products.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/all_products/all_products.html">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\all_products\all_products.html</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="all_products.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/all_products/all_products.js">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\all_products\all_products.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="base">
+						<NamedResource name="base.css_notused" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/base/base.css_notused">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\base\base.css_notused</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="base.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/base/base.html">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\base\base.html</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="base.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/base/base.js">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\base\base.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="base.js_bck" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/base/base.js_bck">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\base\base.js_bck</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="boost">
+						<NamedResource name="boost.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/boost/boost.html">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\boost\boost.html</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="boost.html_bck" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/boost/boost.html_bck">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\boost\boost.html_bck</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="boost.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/boost/boost.js">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\boost\boost.js</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="boost.js_bck" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/boost/boost.js_bck">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\boost\boost.js_bck</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="final">
+						<NamedResource name="final.css_notused" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/final/final.css_notused">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\final\final.css_notused</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="final.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/final/final.html">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\final\final.html</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="final.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/final/final.js">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\final\final.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="flavor">
+						<NamedResource name="flavor.css_notused" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/flavor/flavor.css_notused">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\flavor\flavor.css_notused</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="flavor.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/flavor/flavor.html">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\flavor\flavor.html</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="flavor.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/flavor/flavor.js">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\flavor\flavor.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="flav_sel">
+						<NamedResource name="flav_sel.css_notused" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/flav_sel/flav_sel.css_notused">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\flav_sel\flav_sel.css_notused</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="flav_sel.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/flav_sel/flav_sel.html">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\flav_sel\flav_sel.html</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="flav_sel.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/flav_sel/flav_sel.js">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\flav_sel\flav_sel.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="home">
+						<NamedResource name="home.css_notused" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/home/home.css_notused">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\home\home.css_notused</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="home.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/home/home.html">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\home\home.html</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="home.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/home/home.js">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\home\home.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="info_home">
+						<NamedResource name="info_home.css_notused" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/info_home/info_home.css_notused">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\info_home\info_home.css_notused</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="info_home.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/info_home/info_home.html">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\info_home\info_home.html</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="info_home.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/info_home/info_home.js">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\info_home\info_home.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="item_info">
+						<NamedResource name="item_info.css_notused" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/item_info/item_info.css_notused">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\item_info\item_info.css_notused</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="item_info.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/item_info/item_info.html">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\item_info\item_info.html</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="item_info.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/item_info/item_info.js">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\item_info\item_info.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="launch_page">
+						<NamedResource name="launch_page.css_notused" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/launch_page/launch_page.css_notused">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\launch_page\launch_page.css_notused</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="launch_page.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/launch_page/launch_page.html">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\launch_page\launch_page.html</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="launch_page.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/launch_page/launch_page.js">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\launch_page\launch_page.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="profile">
+						<NamedResource name="profile.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/profile/profile.css">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\profile\profile.css</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="profile.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/profile/profile.html">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\profile\profile.html</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="profile.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/profile/profile.js">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\profile\profile.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="protein">
+						<NamedResource name="protein.css_notusing" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/protein/protein.css_notusing">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\protein\protein.css_notusing</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="protein.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/protein/protein.html">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\protein\protein.html</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="protein.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/protein/protein.js">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\protein\protein.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="thankyou">
+						<NamedResource name="thankyou.css_bck" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/thankyou/thankyou.css_bck">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\thankyou\thankyou.css_bck</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="thankyou.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/thankyou/thankyou.html">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\thankyou\thankyou.html</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="thankyou.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/login_sessions/thankyou/thankyou.js">
+							<Candidate type="Path">
+								<Value>pages\login_sessions\thankyou\thankyou.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="protein">
+					<NamedResource name="protein.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/protein/protein.css">
+						<Candidate type="Path">
+							<Value>pages\protein\protein.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="protein.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/protein/protein.html">
+						<Candidate type="Path">
+							<Value>pages\protein\protein.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="protein.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/protein/protein.js">
+						<Candidate type="Path">
+							<Value>pages\protein\protein.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="signup">
+					<NamedResource name="signup.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/signup/signup.css">
+						<Candidate type="Path">
+							<Value>pages\signup\signup.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="signup.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/signup/signup.html">
+						<Candidate type="Path">
+							<Value>pages\signup\signup.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="signup.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/signup/signup.js">
+						<Candidate type="Path">
+							<Value>pages\signup\signup.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="supl_sport">
+					<NamedResource name="supl_sport.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/supl_sport/supl_sport.css">
+						<Candidate type="Path">
+							<Value>pages\supl_sport\supl_sport.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="supl_sport.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/supl_sport/supl_sport.html">
+						<Candidate type="Path">
+							<Value>pages\supl_sport\supl_sport.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="supl_sport.html_bck" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/supl_sport/supl_sport.html_bck">
+						<Candidate type="Path">
+							<Value>pages\supl_sport\supl_sport.html_bck</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="supl_sport.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/supl_sport/supl_sport.js">
+						<Candidate type="Path">
+							<Value>pages\supl_sport\supl_sport.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="supl_sport_bck.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/supl_sport/supl_sport_bck.css">
+						<Candidate type="Path">
+							<Value>pages\supl_sport\supl_sport_bck.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="supl_sport_detail">
+					<NamedResource name="supl_sport_detail.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/supl_sport_detail/supl_sport_detail.css">
+						<Candidate type="Path">
+							<Value>pages\supl_sport_detail\supl_sport_detail.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="supl_sport_detail.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/supl_sport_detail/supl_sport_detail.html">
+						<Candidate type="Path">
+							<Value>pages\supl_sport_detail\supl_sport_detail.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="supl_sport_detail.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/supl_sport_detail/supl_sport_detail.js">
+						<Candidate type="Path">
+							<Value>pages\supl_sport_detail\supl_sport_detail.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="supl_sport_detail_bck">
+					<NamedResource name="supl_sport_detail.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/supl_sport_detail_bck/supl_sport_detail.css">
+						<Candidate type="Path">
+							<Value>pages\supl_sport_detail_bck\supl_sport_detail.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="supl_sport_detail.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/supl_sport_detail_bck/supl_sport_detail.html">
+						<Candidate type="Path">
+							<Value>pages\supl_sport_detail_bck\supl_sport_detail.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="supl_sport_detail.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/supl_sport_detail_bck/supl_sport_detail.js">
+						<Candidate type="Path">
+							<Value>pages\supl_sport_detail_bck\supl_sport_detail.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="supl_sport_detail_item">
+					<NamedResource name="supl_sport_detail_item.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/supl_sport_detail_item/supl_sport_detail_item.css">
+						<Candidate type="Path">
+							<Value>pages\supl_sport_detail_item\supl_sport_detail_item.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="supl_sport_detail_item.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/supl_sport_detail_item/supl_sport_detail_item.html">
+						<Candidate type="Path">
+							<Value>pages\supl_sport_detail_item\supl_sport_detail_item.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="supl_sport_detail_item.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/supl_sport_detail_item/supl_sport_detail_item.js">
+						<Candidate type="Path">
+							<Value>pages\supl_sport_detail_item\supl_sport_detail_item.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="thankyou">
+					<NamedResource name="thankyou.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/thankyou/thankyou.css">
+						<Candidate type="Path">
+							<Value>pages\thankyou\thankyou.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="thankyou.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/thankyou/thankyou.html">
+						<Candidate type="Path">
+							<Value>pages\thankyou\thankyou.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="thankyou.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/thankyou/thankyou.js">
+						<Candidate type="Path">
+							<Value>pages\thankyou\thankyou.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="welcome">
+					<NamedResource name="welcome.css" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/welcome/welcome.css">
+						<Candidate type="Path">
+							<Value>pages\welcome\welcome.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="welcome.html" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/welcome/welcome.html">
+						<Candidate type="Path">
+							<Value>pages\welcome\welcome.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="welcome.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/pages/welcome/welcome.js">
+						<Candidate type="Path">
+							<Value>pages\welcome\welcome.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="services">
+				<ResourceMapSubtree name="mobile services">
+					<ResourceMapSubtree name="thinkitdrinkitData">
+						<NamedResource name="service.js" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/Files/services/mobile%20services/thinkitdrinkitData/service.js">
+							<Candidate type="Path">
+								<Value>services\mobile services\thinkitdrinkitData\service.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="MobileServices">
+			<ResourceMapSubtree name="Resources">
+				<NamedResource name="Extensions_ConnectionFailureMessage" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/MobileServices/Resources/Extensions_ConnectionFailureMessage">
+					<Candidate qualifiers="Language-en-US" isDefault="true" type="String">
+						<Value>Unexpected connection failure.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Extensions_DefaultErrorMessage" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/MobileServices/Resources/Extensions_DefaultErrorMessage">
+					<Candidate qualifiers="Language-en-US" isDefault="true" type="String">
+						<Value>Unexpected failure.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MobileServiceLogin_AuthenticationProviderNotSupported" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/MobileServices/Resources/MobileServiceLogin_AuthenticationProviderNotSupported">
+					<Candidate qualifiers="Language-en-US" isDefault="true" type="String">
+						<Value>Unsupported authentication provider name. Please specify one of {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MobileServiceLogin_InvalidProvider" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/MobileServices/Resources/MobileServiceLogin_InvalidProvider">
+					<Candidate qualifiers="Language-en-US" isDefault="true" type="String">
+						<Value>The first parameter must be the name of the autentication provider or a Microsoft Account authentication token.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MobileServiceLogin_InvalidResponseFormat" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/MobileServices/Resources/MobileServiceLogin_InvalidResponseFormat">
+					<Candidate qualifiers="Language-en-US" isDefault="true" type="String">
+						<Value>Invalid format of the authentication response.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MobileServiceLogin_LoginErrorResponse" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/MobileServices/Resources/MobileServiceLogin_LoginErrorResponse">
+					<Candidate qualifiers="Language-en-US" isDefault="true" type="String">
+						<Value>Cannot start a login operation because login is already in progress.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MobileServiceTable_InsertIdAlreadySet" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/MobileServices/Resources/MobileServiceTable_InsertIdAlreadySet">
+					<Candidate qualifiers="Language-en-US" isDefault="true" type="String">
+						<Value>Cannot insert if the {0} member is already set.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MobileServiceTable_NotSingleObject" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/MobileServices/Resources/MobileServiceTable_NotSingleObject">
+					<Candidate qualifiers="Language-en-US" isDefault="true" type="String">
+						<Value>Could not get object from response {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MobileServiceTable_ReadMismatchedQueryTables" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/MobileServices/Resources/MobileServiceTable_ReadMismatchedQueryTables">
+					<Candidate qualifiers="Language-en-US" isDefault="true" type="String">
+						<Value>Cannot get the results of a query for table '{1}' via table '{0}'.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Validate_InvalidUserParameter" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/MobileServices/Resources/Validate_InvalidUserParameter">
+					<Candidate qualifiers="Language-en-US" isDefault="true" type="String">
+						<Value>{0} contains an invalid user-defined query string parameter: {1}. User-defined query string parameters must not begin with a '$'.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Validate_LengthUnexpected" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/MobileServices/Resources/Validate_LengthUnexpected">
+					<Candidate qualifiers="Language-en-US" isDefault="true" type="String">
+						<Value>{0} is expected to have length {1}, not {2}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Validate_NotNullError" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/MobileServices/Resources/Validate_NotNullError">
+					<Candidate qualifiers="Language-en-US" isDefault="true" type="String">
+						<Value>{0} cannot be null.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Validate_NotNullOrEmptyError" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/MobileServices/Resources/Validate_NotNullOrEmptyError">
+					<Candidate qualifiers="Language-en-US" isDefault="true" type="String">
+						<Value>{0} cannot be null or empty.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Validate_TypeCheckError" uri="ms-resource://e3f10fc1-365d-4d2e-b488-7e61baad9bf4/MobileServices/Resources/Validate_TypeCheckError">
+					<Candidate qualifiers="Language-en-US" isDefault="true" type="String">
+						<Value>{0} is expected to be a value of type {1}, not {2}.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

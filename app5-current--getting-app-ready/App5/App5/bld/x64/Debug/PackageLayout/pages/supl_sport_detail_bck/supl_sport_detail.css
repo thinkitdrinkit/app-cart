@@ -1,0 +1,35 @@
+﻿.supl_sport section[role=main] {
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+#supl_sport1 {
+    width: 400px;
+    height: 380px;
+    border: 3px solid gold;
+}
+
+    #supl_sport1 img {
+        width: 400px;
+        height: 400px;
+        position: absolute;
+        z-index: -1;
+    }
+
+    #supl_sport1 h2 {
+        background-color: rgba(0,0,0,.6);
+        color: #fff;
+        width: 400px;
+        font-weight: bold;
+        margin-top: 310px;
+        padding-left: 10px;
+        height: 70px;
+    }
+
+#supl_sport_placement {
+    margin-left: -90px;
+}
+
+#supl_sport_header {
+    margin-top: -30px;
+}

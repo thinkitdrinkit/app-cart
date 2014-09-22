@@ -1,0 +1,700 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>THECHAMP262</Machine>
+    <WindowsUser>ANTHONY</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>e3f10fc1-365d-4d2e-b488-7e61baad9bf4</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\bld\x64\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>3F20C2C1D6CBEAB0AF7B2780C14D3B1A8404189504140C48785424D3DAEFC1E8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e3f10fc1-365d-4d2e-b488-7e61baad9bf4_1.0.0.20_x64__bkvjexddj2nfj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e3f10fc1-365d-4d2e-b488-7e61baad9bf4_bkvjexddj2nfj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e3f10fc1-365d-4d2e-b488-7e61baad9bf4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Anthony</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.20</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-22T09:31:40.193</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2014-09-17T01:25:49.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\examples\libs\prettify\prettify.css">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\examples\libs\prettify\prettify.css</PackagePath>
+      <Modified>2014-09-16T20:41:27.378</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\examples\style.css">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\examples\style.css</PackagePath>
+      <Modified>2014-09-16T20:41:27.356</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\func\func.css">
+      <PackagePath>pages\func\func.css</PackagePath>
+      <Modified>2014-09-16T20:41:27.643</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\info_home - Copy\info_home.css">
+      <PackagePath>pages\info_home - Copy\info_home.css</PackagePath>
+      <Modified>2014-09-16T20:41:27.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\supl_sport_item_info\supl_sport_item_info.css">
+      <PackagePath>pages\supl_sport_item_info\supl_sport_item_info.css</PackagePath>
+      <Modified>2014-09-16T20:41:28.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\supl_sport\supl_sport.css">
+      <PackagePath>pages\supl_sport\supl_sport.css</PackagePath>
+      <Modified>2014-09-16T20:41:28.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\all_products\all_products.css">
+      <PackagePath>pages\all_products\all_products.css</PackagePath>
+      <Modified>2014-09-16T20:41:27.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\base\base.css">
+      <PackagePath>pages\base\base.css</PackagePath>
+      <Modified>2014-09-16T20:41:27.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\boost\boost.css">
+      <PackagePath>pages\boost\boost.css</PackagePath>
+      <Modified>2014-09-16T20:41:27.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\final\final.css">
+      <PackagePath>pages\final\final.css</PackagePath>
+      <Modified>2014-09-22T05:11:51.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\final\print.css">
+      <PackagePath>pages\final\print.css</PackagePath>
+      <Modified>2014-09-16T20:41:27.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\flav_sel\flav_sel.css">
+      <PackagePath>pages\flav_sel\flav_sel.css</PackagePath>
+      <Modified>2014-09-16T20:41:27.604</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2014-09-16T20:41:27.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\info_home\info_home.css">
+      <PackagePath>pages\info_home\info_home.css</PackagePath>
+      <Modified>2014-09-16T20:41:27.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\item_info\item_info.css">
+      <PackagePath>pages\item_info\item_info.css</PackagePath>
+      <Modified>2014-09-16T20:41:27.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\launch_page\launch_page.css">
+      <PackagePath>pages\launch_page\launch_page.css</PackagePath>
+      <Modified>2014-09-22T09:31:35.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login\login.css">
+      <PackagePath>pages\login\login.css</PackagePath>
+      <Modified>2014-09-16T20:41:27.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\all_products\all_products.css">
+      <PackagePath>pages\login_sessions\all_products\all_products.css</PackagePath>
+      <Modified>2014-09-16T20:41:27.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\profile\profile.css">
+      <PackagePath>pages\login_sessions\profile\profile.css</PackagePath>
+      <Modified>2014-09-16T20:41:28.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\protein\protein.css">
+      <PackagePath>pages\protein\protein.css</PackagePath>
+      <Modified>2014-09-16T20:41:28.466</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\signup\signup.css">
+      <PackagePath>pages\signup\signup.css</PackagePath>
+      <Modified>2014-09-16T20:41:28.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\thankyou\thankyou.css">
+      <PackagePath>pages\thankyou\thankyou.css</PackagePath>
+      <Modified>2014-09-16T20:41:29.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\welcome\welcome.css">
+      <PackagePath>pages\welcome\welcome.css</PackagePath>
+      <Modified>2014-09-16T20:41:29.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\another_logo.jpg">
+      <PackagePath>images\another_logo.jpg</PackagePath>
+      <Modified>2014-09-16T20:41:26.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\another_logo.scale-100.jpg">
+      <PackagePath>images\another_logo.scale-100.jpg</PackagePath>
+      <Modified>2014-09-16T20:41:26.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\another_logo.scale-180.jpg">
+      <PackagePath>images\another_logo.scale-180.jpg</PackagePath>
+      <Modified>2014-09-16T20:41:26.558</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\app.jpg">
+      <PackagePath>images\app.jpg</PackagePath>
+      <Modified>2014-09-16T21:39:16.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\app2.jpg">
+      <PackagePath>images\app2.jpg</PackagePath>
+      <Modified>2014-09-16T21:45:50.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\app3.jpg">
+      <PackagePath>images\app3.jpg</PackagePath>
+      <Modified>2014-09-22T09:27:32.841</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\app4.jpg">
+      <PackagePath>images\app4.jpg</PackagePath>
+      <Modified>2014-09-22T09:29:32.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\app5.jpg">
+      <PackagePath>images\app5.jpg</PackagePath>
+      <Modified>2014-09-22T09:29:56.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\app6.jpg">
+      <PackagePath>images\app6.jpg</PackagePath>
+      <Modified>2014-09-22T09:30:38.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\bar1.jpg">
+      <PackagePath>images\bar1.jpg</PackagePath>
+      <Modified>2014-09-16T20:41:26.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\lemonLime.jpg">
+      <PackagePath>images\lemonLime.jpg</PackagePath>
+      <Modified>2014-09-16T20:41:26.593</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\LemonLimeZero.jpg">
+      <PackagePath>images\LemonLimeZero.jpg</PackagePath>
+      <Modified>2014-09-16T20:41:26.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\logo1.jpg">
+      <PackagePath>images\logo1.jpg</PackagePath>
+      <Modified>2014-09-16T20:41:26.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\pomAcia.jpg">
+      <PackagePath>images\pomAcia.jpg</PackagePath>
+      <Modified>2014-09-16T20:41:26.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <Modified>2014-09-16T20:41:26.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\logo_avatar.scale-100.png">
+      <PackagePath>images\logo_avatar.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-16T20:41:26.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\logo_avatar.scale-180.png">
+      <PackagePath>images\logo_avatar.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-16T20:41:26.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\logo_footer.png">
+      <PackagePath>images\logo_footer.png</PackagePath>
+      <Modified>2014-09-16T20:41:26.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\logo_footer_background.png">
+      <PackagePath>images\logo_footer_background.png</PackagePath>
+      <Modified>2014-09-16T20:41:26.715</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\logo_splash.png">
+      <PackagePath>images\logo_splash.png</PackagePath>
+      <Modified>2014-09-16T20:41:26.728</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\SmallLogo.scale-140.png">
+      <PackagePath>images\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-16T20:41:26.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\splash_screen_logo.scale-100.png">
+      <PackagePath>images\splash_screen_logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-16T20:41:26.761</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\splash_screen_logo.scale-180.png">
+      <PackagePath>images\splash_screen_logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-16T20:41:26.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\images\storelogo.scale-180.png">
+      <PackagePath>images\storelogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-16T20:41:26.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\app_bar.js">
+      <PackagePath>js\app_bar.js</PackagePath>
+      <Modified>2014-09-16T20:41:26.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\auth.js">
+      <PackagePath>js\auth.js</PackagePath>
+      <Modified>2014-09-16T20:41:26.909</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\ChangeApp.js">
+      <PackagePath>js\ChangeApp.js</PackagePath>
+      <Modified>2014-09-16T20:41:26.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\continue_shopping.js">
+      <PackagePath>js\continue_shopping.js</PackagePath>
+      <Modified>2014-09-22T03:41:14.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\dataBaseGather.js">
+      <PackagePath>js\dataBaseGather.js</PackagePath>
+      <Modified>2014-09-16T20:41:26.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\dataStore.js">
+      <PackagePath>js\dataStore.js</PackagePath>
+      <Modified>2014-09-22T03:39:57.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2014-09-22T05:15:50.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\gatherInfo.js">
+      <PackagePath>js\gatherInfo.js</PackagePath>
+      <Modified>2014-09-22T03:43:32.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\examples\libs\prettify\prettify.js">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\examples\libs\prettify\prettify.js</PackagePath>
+      <Modified>2014-09-16T20:41:27.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\jquery.slimscroll.js">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\jquery.slimscroll.js</PackagePath>
+      <Modified>2014-09-16T20:41:27.096</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\jquery.slimscroll.min.js">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\jquery.slimscroll.min.js</PackagePath>
+      <Modified>2014-09-16T20:41:27.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\MobileServices.intellisense.js">
+      <PackagePath>js\MobileServices.intellisense.js</PackagePath>
+      <Modified>2014-09-16T20:41:26.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\MobileServices.js">
+      <PackagePath>js\MobileServices.js</PackagePath>
+      <Modified>2014-09-16T20:41:26.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\MobileServices.min.js">
+      <PackagePath>js\MobileServices.min.js</PackagePath>
+      <Modified>2014-09-16T20:41:26.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\myAzure.js">
+      <PackagePath>js\myAzure.js</PackagePath>
+      <Modified>2014-09-16T20:41:26.997</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2014-09-16T20:41:27.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\print.js">
+      <PackagePath>js\print.js</PackagePath>
+      <Modified>2014-09-16T20:41:27.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\removeInfo.js">
+      <PackagePath>js\removeInfo.js</PackagePath>
+      <Modified>2014-09-16T20:41:27.043</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\showPopupUI.js">
+      <PackagePath>js\showPopupUI.js</PackagePath>
+      <Modified>2014-09-16T20:41:27.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\func\func.js">
+      <PackagePath>pages\func\func.js</PackagePath>
+      <Modified>2014-09-16T20:41:27.667</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\info_home - Copy\info_home.js">
+      <PackagePath>pages\info_home - Copy\info_home.js</PackagePath>
+      <Modified>2014-09-16T20:41:27.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\info_home\info_home.js">
+      <PackagePath>pages\info_home\info_home.js</PackagePath>
+      <Modified>2014-09-16T20:41:27.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\supl_sport_item_info\supl_sport_item_info.js">
+      <PackagePath>pages\supl_sport_item_info\supl_sport_item_info.js</PackagePath>
+      <Modified>2014-09-16T20:41:29.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\supl_sport\supl_sport.js">
+      <PackagePath>pages\supl_sport\supl_sport.js</PackagePath>
+      <Modified>2014-09-16T20:41:28.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\all_products\all_products.js">
+      <PackagePath>pages\all_products\all_products.js</PackagePath>
+      <Modified>2014-09-16T20:41:27.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\base\base.js">
+      <PackagePath>pages\base\base.js</PackagePath>
+      <Modified>2014-09-16T20:41:27.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\boost\boost.js">
+      <PackagePath>pages\boost\boost.js</PackagePath>
+      <Modified>2014-09-16T20:41:27.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\final\final.js">
+      <PackagePath>pages\final\final.js</PackagePath>
+      <Modified>2014-09-22T08:33:01.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\flav_sel\flav_sel.js">
+      <PackagePath>pages\flav_sel\flav_sel.js</PackagePath>
+      <Modified>2014-09-16T20:41:27.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2014-09-22T04:43:08.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\item_info\item_info.js">
+      <PackagePath>pages\item_info\item_info.js</PackagePath>
+      <Modified>2014-09-16T20:41:27.835</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\launch_page\launch_page.js">
+      <PackagePath>pages\launch_page\launch_page.js</PackagePath>
+      <Modified>2014-09-22T09:13:20.385</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login\login.js">
+      <PackagePath>pages\login\login.js</PackagePath>
+      <Modified>2014-09-16T20:41:27.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\all_products\all_products.js">
+      <PackagePath>pages\login_sessions\all_products\all_products.js</PackagePath>
+      <Modified>2014-09-16T20:41:27.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\base\base.js">
+      <PackagePath>pages\login_sessions\base\base.js</PackagePath>
+      <Modified>2014-09-16T20:41:27.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\boost\boost.js">
+      <PackagePath>pages\login_sessions\boost\boost.js</PackagePath>
+      <Modified>2014-09-16T20:41:28.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\final\final.js">
+      <PackagePath>pages\login_sessions\final\final.js</PackagePath>
+      <Modified>2014-09-16T20:41:28.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\flavor\flavor.js">
+      <PackagePath>pages\login_sessions\flavor\flavor.js</PackagePath>
+      <Modified>2014-09-16T20:41:28.174</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\flav_sel\flav_sel.js">
+      <PackagePath>pages\login_sessions\flav_sel\flav_sel.js</PackagePath>
+      <Modified>2014-09-16T20:41:28.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\home\home.js">
+      <PackagePath>pages\login_sessions\home\home.js</PackagePath>
+      <Modified>2014-09-16T20:41:28.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\info_home\info_home.js">
+      <PackagePath>pages\login_sessions\info_home\info_home.js</PackagePath>
+      <Modified>2014-09-16T20:41:28.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\item_info\item_info.js">
+      <PackagePath>pages\login_sessions\item_info\item_info.js</PackagePath>
+      <Modified>2014-09-16T20:41:28.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\launch_page\launch_page.js">
+      <PackagePath>pages\login_sessions\launch_page\launch_page.js</PackagePath>
+      <Modified>2014-09-16T20:41:28.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\profile\profile.js">
+      <PackagePath>pages\login_sessions\profile\profile.js</PackagePath>
+      <Modified>2014-09-16T20:41:28.372</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\protein\protein.js">
+      <PackagePath>pages\login_sessions\protein\protein.js</PackagePath>
+      <Modified>2014-09-16T20:41:28.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\thankyou\thankyou.js">
+      <PackagePath>pages\login_sessions\thankyou\thankyou.js</PackagePath>
+      <Modified>2014-09-16T20:41:28.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\protein\protein.js">
+      <PackagePath>pages\protein\protein.js</PackagePath>
+      <Modified>2014-09-16T20:41:28.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\signup\signup.js">
+      <PackagePath>pages\signup\signup.js</PackagePath>
+      <Modified>2014-09-16T20:41:28.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\thankyou\thankyou.js">
+      <PackagePath>pages\thankyou\thankyou.js</PackagePath>
+      <Modified>2014-09-16T20:41:29.209</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\welcome\welcome.js">
+      <PackagePath>pages\welcome\welcome.js</PackagePath>
+      <Modified>2014-09-16T20:41:29.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\services\mobile services\thinkitdrinkitData\service.js">
+      <PackagePath>services\mobile services\thinkitdrinkitData\service.js</PackagePath>
+      <Modified>2014-09-16T20:41:29.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\examples\allow-page-scroll.html">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\examples\allow-page-scroll.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\examples\chaining.html">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\examples\chaining.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\examples\disable-fade-out.html">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\examples\disable-fade-out.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\examples\dynamic-content.html">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\examples\dynamic-content.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\examples\height-width.html">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\examples\height-width.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\examples\index.html">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\examples\index.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\examples\mouse-wheel.html">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\examples\mouse-wheel.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.233</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\examples\multiple-elements.html">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\examples\multiple-elements.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\examples\navigation.html">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\examples\navigation.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\examples\nested.html">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\examples\nested.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\examples\programmatic-scrolling.html">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\examples\programmatic-scrolling.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\examples\rail.html">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\examples\rail.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\examples\scroll-events.html">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\examples\scroll-events.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.316</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\examples\scrollbar.html">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\examples\scrollbar.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.330</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\examples\start-position.html">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\examples\start-position.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2014-09-22T03:41:55.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\func\func.html">
+      <PackagePath>pages\func\func.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\info_home - Copy\info_home.html">
+      <PackagePath>pages\info_home - Copy\info_home.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.734</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\supl_sport_item_info\supl_sport_item_info.html">
+      <PackagePath>pages\supl_sport_item_info\supl_sport_item_info.html</PackagePath>
+      <Modified>2014-09-16T20:41:28.780</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\supl_sport\supl_sport.html">
+      <PackagePath>pages\supl_sport\supl_sport.html</PackagePath>
+      <Modified>2014-09-16T20:41:28.561</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\all_products\all_products.html">
+      <PackagePath>pages\all_products\all_products.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\base\base.html">
+      <PackagePath>pages\base\base.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\boost\boost.html">
+      <PackagePath>pages\boost\boost.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\final\final.html">
+      <PackagePath>pages\final\final.html</PackagePath>
+      <Modified>2014-09-22T06:21:25.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\flav_sel\flav_sel.html">
+      <PackagePath>pages\flav_sel\flav_sel.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\info_home\info_home.html">
+      <PackagePath>pages\info_home\info_home.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.771</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\item_info\item_info.html">
+      <PackagePath>pages\item_info\item_info.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\launch_page\launch_page.html">
+      <PackagePath>pages\launch_page\launch_page.html</PackagePath>
+      <Modified>2014-09-22T09:34:19.354</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login\login.html">
+      <PackagePath>pages\login\login.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\all_products\all_products.html">
+      <PackagePath>pages\login_sessions\all_products\all_products.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\base\base.html">
+      <PackagePath>pages\login_sessions\base\base.html</PackagePath>
+      <Modified>2014-09-16T20:41:27.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\boost\boost.html">
+      <PackagePath>pages\login_sessions\boost\boost.html</PackagePath>
+      <Modified>2014-09-16T20:41:28.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\final\final.html">
+      <PackagePath>pages\login_sessions\final\final.html</PackagePath>
+      <Modified>2014-09-16T20:41:28.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\flavor\flavor.html">
+      <PackagePath>pages\login_sessions\flavor\flavor.html</PackagePath>
+      <Modified>2014-09-16T20:41:28.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\flav_sel\flav_sel.html">
+      <PackagePath>pages\login_sessions\flav_sel\flav_sel.html</PackagePath>
+      <Modified>2014-09-16T20:41:28.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\home\home.html">
+      <PackagePath>pages\login_sessions\home\home.html</PackagePath>
+      <Modified>2014-09-16T20:41:28.202</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\info_home\info_home.html">
+      <PackagePath>pages\login_sessions\info_home\info_home.html</PackagePath>
+      <Modified>2014-09-16T20:41:28.240</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\item_info\item_info.html">
+      <PackagePath>pages\login_sessions\item_info\item_info.html</PackagePath>
+      <Modified>2014-09-16T20:41:28.282</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\launch_page\launch_page.html">
+      <PackagePath>pages\login_sessions\launch_page\launch_page.html</PackagePath>
+      <Modified>2014-09-16T20:41:28.322</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\profile\profile.html">
+      <PackagePath>pages\login_sessions\profile\profile.html</PackagePath>
+      <Modified>2014-09-16T20:41:28.361</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\protein\protein.html">
+      <PackagePath>pages\login_sessions\protein\protein.html</PackagePath>
+      <Modified>2014-09-16T20:41:28.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\thankyou\thankyou.html">
+      <PackagePath>pages\login_sessions\thankyou\thankyou.html</PackagePath>
+      <Modified>2014-09-16T20:41:28.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\protein\protein.html">
+      <PackagePath>pages\protein\protein.html</PackagePath>
+      <Modified>2014-09-16T20:41:28.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\signup\signup.html">
+      <PackagePath>pages\signup\signup.html</PackagePath>
+      <Modified>2014-09-16T20:41:28.519</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\thankyou\thankyou.html">
+      <PackagePath>pages\thankyou\thankyou.html</PackagePath>
+      <Modified>2014-09-16T20:41:29.197</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\welcome\welcome.html">
+      <PackagePath>pages\welcome\welcome.html</PackagePath>
+      <Modified>2014-09-16T20:41:29.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\README.md">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\README.md</PackagePath>
+      <Modified>2014-09-16T20:41:27.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\js\lib\jQuery-slimScroll-1.3.0\slimScroll.jquery.json">
+      <PackagePath>js\lib\jQuery-slimScroll-1.3.0\slimScroll.jquery.json</PackagePath>
+      <Modified>2014-09-16T20:41:27.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\packages.config">
+      <PackagePath>packages.config</PackagePath>
+      <Modified>2014-09-16T20:41:18.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\info_home\info_home.js_bck">
+      <PackagePath>pages\info_home\info_home.js_bck</PackagePath>
+      <Modified>2014-09-16T20:41:27.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\base\base.js_bck">
+      <PackagePath>pages\login_sessions\base\base.js_bck</PackagePath>
+      <Modified>2014-09-16T20:41:28.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\boost\boost.js_bck">
+      <PackagePath>pages\login_sessions\boost\boost.js_bck</PackagePath>
+      <Modified>2014-09-16T20:41:28.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\base\base.css_notused">
+      <PackagePath>pages\login_sessions\base\base.css_notused</PackagePath>
+      <Modified>2014-09-16T20:41:27.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\final\final.css_notused">
+      <PackagePath>pages\login_sessions\final\final.css_notused</PackagePath>
+      <Modified>2014-09-16T20:41:28.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\flavor\flavor.css_notused">
+      <PackagePath>pages\login_sessions\flavor\flavor.css_notused</PackagePath>
+      <Modified>2014-09-16T20:41:28.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\flav_sel\flav_sel.css_notused">
+      <PackagePath>pages\login_sessions\flav_sel\flav_sel.css_notused</PackagePath>
+      <Modified>2014-09-16T20:41:28.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\home\home.css_notused">
+      <PackagePath>pages\login_sessions\home\home.css_notused</PackagePath>
+      <Modified>2014-09-16T20:41:28.190</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\info_home\info_home.css_notused">
+      <PackagePath>pages\login_sessions\info_home\info_home.css_notused</PackagePath>
+      <Modified>2014-09-16T20:41:28.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\item_info\item_info.css_notused">
+      <PackagePath>pages\login_sessions\item_info\item_info.css_notused</PackagePath>
+      <Modified>2014-09-16T20:41:28.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\launch_page\launch_page.css_notused">
+      <PackagePath>pages\login_sessions\launch_page\launch_page.css_notused</PackagePath>
+      <Modified>2014-09-16T20:41:28.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\boost\boost.html_bck">
+      <PackagePath>pages\login_sessions\boost\boost.html_bck</PackagePath>
+      <Modified>2014-09-16T20:41:28.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\protein\protein.css_notusing">
+      <PackagePath>pages\login_sessions\protein\protein.css_notusing</PackagePath>
+      <Modified>2014-09-16T20:41:28.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\pages\login_sessions\thankyou\thankyou.css_bck">
+      <PackagePath>pages\login_sessions\thankyou\thankyou.css_bck</PackagePath>
+      <Modified>2014-09-16T20:41:28.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ANTHONY\Desktop\app5-current--getting-app-ready\App5\App5\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-09-22T09:31:39.924</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ko"
+"ResourceDimensions"		"language-ko-kr"
+
+[Files]
+"C:\Users\Anthony\Desktop\APP\App5v9\App5\bld\x64\Debug\split.language-ko.pri"			"resources.pri"

@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>suppplement by sport</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-light.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <link href="supl_sport_detail.css" rel="stylesheet" />
+    <script src="supl_sport_detail.js"></script>
+</head>
+<body>
+    <div class="supl_sport fragment">
+        <header id="supl_sport_header" aria-label="Header content" role="banner">
+            <button data-win-control="WinJS.UI.BackButton"></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span id="info_title" class="pagetitle">Welcome to Supplement by Sport</span>
+            </h1>
+        </header>
+        <section id="content_main" aria-label="Main content" role="main">
+           <div id="supl_sport" class="supl_sport_class" data-win-control="WinJS.Binding.Template">
+                   <div id="supl_sport1" onclick="want_more.items_info1(event.srcElement.innerText)">
+                       <img class="supl_sport_pic_class" id="supl_sport_pic" data-win-bind="src: img" />
+                       <h2 id="supl_sport_name" class="supl_sport_name_class" data-win-bind="textContent: name"></h2>
+                   </div>
+               </div>
+                <div id="supl_sport_placement" data-win-control="WinJS.UI.ListView" data-win-bind="winControl.itemDataSource: whole_cat.dataSource" data-win-options="{
+                        itemTemplate: select ('#supl_sport'),
+                        selectionMode: 'none'
+                    }"></div>
+        </section>
+        <footer id="main_footer">
+           <h1 id="footer_company_name"></h1><!-- this is being styled in the default.js folder -->
+        </footer>
+    </div>
+</body>
+</html>

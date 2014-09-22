@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>func</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-light.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <link href="func.css" rel="stylesheet" />
+    <script src="func.js"></script>
+
+</head>
+<body>
+    <div class="func fragment">
+        <header id="func_header" aria-label="Header content" role="banner">
+            <button data-win-control="WinJS.UI.BackButton"></button>
+            <h1 id="choosen_age" class="titlearea win-type-ellipsis"></h1>
+        </header>
+
+        <progress id="progressRing" class="win-ring win-large" style="visibility: hidden"></progress>
+
+        <section aria-label="Main content" role="main">
+            <div id="win_listview_funcs_placement_row">
+                <div id="funcs" class="funcs_class" data-win-control="WinJS.Binding.Template">
+                    <div id="the_funcs" onclick="func_clicked.clicked(event.srcElement.innerText);">
+                        <img class="func_pic_class" id="func_pic" data-win-bind="src: img" />
+                        <h2 id="func_name" class="func_name_class" data-win-bind="textContent: func"></h2>
+                    </div>
+                </div>
+                <div id="funcs_placement" data-win-control="WinJS.UI.ListView" data-win-bind="winControl.itemDataSource: func.dataSource" data-win-options="{
+                    itemTemplate: select ('.funcs_class'),
+                    selectionMode: 'none'
+                }"></div>
+            </div>
+            <div id="win_listview_funcs_placement_sel">
+                <div id="funcs_sel" class="funcs_sel_class" data-win-control="WinJS.Binding.Template">
+                    <div class="the_sel_func_scroll">
+                        <div id="the_sel_funcs">
+                            <img id="choosen_func_carry" hidden="" data-win-bind="src: the_pic" />
+                            <img class="sel_func_pic_class" id="sel_func_pic" data-win-bind="src: the_img" />
+                            <button id="sel_btn6" onclick="func_clicked.next_page_flavor( document.getElementById('sel_func_pic').src)" name="sel_btn6" type="submit">Choose This goal</button>
+                            <button id="info_btn6" name="sel_btn" onclick="func_clicked.more_info(document.getElementById('sel_func_name').textContent)" type="submit">Learn More</button>
+                            <h2 id="sel_func_name" class="sel_func_name_class" data-win-bind="textContent: the_name"></h2>
+                            <p id="func_price" hidden="" data-win-bind="textContent: func_price"></p>
+                            <p id="sel_func_info" class="sel_func_info_class" data-win-bind="textContent: the_info"></p>
+                        </div>
+                    </div>
+                </div>
+                <div id="sel_funcs_placement" data-win-control="WinJS.UI.ListView" data-win-bind="winControl.itemDataSource: info_page2_func.dataSource" data-win-options="{
+                    itemTemplate: select ('.funcs_sel_class'),
+                    selectionMode: 'none'
+                }"></div>
+            </div>        
+        </section>
+        <!--Milo: webview testing works button activated -->
+        <!--<div id="popup_div">
+            <div id="popup_button">
+                <button id="runAnimation">Show pop-up</button><br /><br />
+            </div>
+            <div id="popup_content">
+                <div id="myPopupUI">
+                    <p>TEST PURPOSES ONLY </p>
+                    <x-ms-webview id="webview"></x-ms-webview>
+                </div>
+            </div>
+        </div>-->
+
+        <footer id="main_footer">
+
+            <!--Milo: age_ is really coming from launch_page -->
+            <div id="age_div">
+                <p id="age_p"></p>
+                <img id="age_pic" alt="This is a test" onclick="WinJS.Navigation.back(2)" src="#" width="115" height="90" />
+            </div>
+
+            <!--Milo: home_ is really coming from home page -->
+            <div id="home_div" class="history_div">
+                <p id="home_p" class="history_p"></p>
+                <img id="home_pic" class="history_pic" alt="This is a test" onclick="WinJS.Navigation.back(1)" src="#" width="115" height="90" />
+            </div>
+
+            <h2 id="where_you_are1"></h2>
+            <h1 id="footer_company_name"></h1><!-- this is being styled in the default.js folder -->
+        </footer>
+    </div>
+</body>
+</html>

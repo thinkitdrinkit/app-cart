@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.scale-140"
+"ResourceDimensions"		"scale-140"
+
+[Files]
+"C:\Users\milo\Desktop\AppTIDI\App5v9\App5\bld\x64\Debug\filemap.scale-140.pri"			"resources.pri"
+"C:\Users\milo\Desktop\AppTIDI\App5v9\App5\bld\x64\Debug\PackageLayout\images\SmallLogo.scale-140.png"			"images\SmallLogo.scale-140.png"

@@ -1,0 +1,10 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.scale-180"
+"ResourceDimensions"		"scale-180"
+
+[Files]
+"C:\Users\milo\Desktop\AppTIDI\App5v9\App5\bld\x64\Debug\filemap.scale-180.pri"			"resources.pri"
+"C:\Users\milo\Desktop\AppTIDI\App5v9\App5\bld\x64\Debug\PackageLayout\images\storelogo.scale-180.png"			"images\storelogo.scale-180.png"
+"C:\Users\milo\Desktop\AppTIDI\App5v9\App5\bld\x64\Debug\PackageLayout\images\splash_screen_logo.scale-180.png"			"images\splash_screen_logo.scale-180.png"
+"C:\Users\milo\Desktop\AppTIDI\App5v9\App5\bld\x64\Debug\PackageLayout\images\logo_avatar.scale-180.png"			"images\logo_avatar.scale-180.png"
+"C:\Users\milo\Desktop\AppTIDI\App5v9\App5\bld\x64\Debug\PackageLayout\images\another_logo.scale-180.jpg"			"images\another_logo.scale-180.jpg"

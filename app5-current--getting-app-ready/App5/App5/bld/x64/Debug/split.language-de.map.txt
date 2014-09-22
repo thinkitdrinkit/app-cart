@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-de"
+"ResourceDimensions"		"language-de-de"
+
+[Files]
+"C:\Users\Anthony\Desktop\APP\App5v9\App5\bld\x64\Debug\split.language-de.pri"			"resources.pri"

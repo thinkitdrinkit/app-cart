@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>THINKITDRINKIT1</Machine>
+    <WindowsUser>Anthony</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\pages\base\base.css">
+      <PackagePath>pages\base\base.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\pages\boost\boost.css">
+      <PackagePath>pages\boost\boost.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\pages\final\final.css">
+      <PackagePath>pages\final\final.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\pages\flavor\flavor.css">
+      <PackagePath>pages\flavor\flavor.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\pages\flav_sel\flav_sel.css">
+      <PackagePath>pages\flav_sel\flav_sel.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\adult.jpg">
+      <PackagePath>images\adult.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\another_logo.jpg">
+      <PackagePath>images\another_logo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\another_logo.scale-100.jpg">
+      <PackagePath>images\another_logo.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\another_logo.scale-180.jpg">
+      <PackagePath>images\another_logo.scale-180.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\bar1.jpg">
+      <PackagePath>images\bar1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\base1.jpg">
+      <PackagePath>images\base1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\base2.jpg">
+      <PackagePath>images\base2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\base3.jpg">
+      <PackagePath>images\base3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\base4.jpg">
+      <PackagePath>images\base4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\base5.jpg">
+      <PackagePath>images\base5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\base6.jpg">
+      <PackagePath>images\base6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\base7.jpg">
+      <PackagePath>images\base7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\base8.jpg">
+      <PackagePath>images\base8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost1.jpg">
+      <PackagePath>images\boost1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost10.jpg">
+      <PackagePath>images\boost10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost11.jpg">
+      <PackagePath>images\boost11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost12.jpg">
+      <PackagePath>images\boost12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost13.jpg">
+      <PackagePath>images\boost13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost14.jpg">
+      <PackagePath>images\boost14.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost15.jpg">
+      <PackagePath>images\boost15.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost16.jpg">
+      <PackagePath>images\boost16.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost17.jpg">
+      <PackagePath>images\boost17.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost18.jpg">
+      <PackagePath>images\boost18.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost19.jpg">
+      <PackagePath>images\boost19.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost2.jpg">
+      <PackagePath>images\boost2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost20.jpg">
+      <PackagePath>images\boost20.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost3.jpg">
+      <PackagePath>images\boost3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost4.jpg">
+      <PackagePath>images\boost4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost5.jpg">
+      <PackagePath>images\boost5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost6.jpg">
+      <PackagePath>images\boost6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost7.jpg">
+      <PackagePath>images\boost7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost8.jpg">
+      <PackagePath>images\boost8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost9.jpg">
+      <PackagePath>images\boost9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\cal.jpg">
+      <PackagePath>images\cal.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\cal2.jpg">
+      <PackagePath>images\cal2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\flav1.jpg">
+      <PackagePath>images\flav1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\flav2.jpg">
+      <PackagePath>images\flav2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\flav3.jpg">
+      <PackagePath>images\flav3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\flav4.jpg">
+      <PackagePath>images\flav4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\flav5.jpg">
+      <PackagePath>images\flav5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\logo1.jpg">
+      <PackagePath>images\logo1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\senior.jpg">
+      <PackagePath>images\senior.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\splash.jpg">
+      <PackagePath>images\splash.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\splash.scale-100.jpg">
+      <PackagePath>images\splash.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\teen.jpg">
+      <PackagePath>images\teen.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\toddler.jpg">
+      <PackagePath>images\toddler.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\youth.jpg">
+      <PackagePath>images\youth.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost12.jpeg">
+      <PackagePath>images\boost12.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\flav6.jpeg">
+      <PackagePath>images\flav6.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\boost20.png">
+      <PackagePath>images\boost20.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\logo_splash.png">
+      <PackagePath>images\logo_splash.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\js\dataStore.js">
+      <PackagePath>js\dataStore.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\js\gatherInfo.js">
+      <PackagePath>js\gatherInfo.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\js\removeInfo.js">
+      <PackagePath>js\removeInfo.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\pages\base\base.js">
+      <PackagePath>pages\base\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\pages\boost\boost.js">
+      <PackagePath>pages\boost\boost.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\pages\final\final.js">
+      <PackagePath>pages\final\final.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\pages\flavor\flavor.js">
+      <PackagePath>pages\flavor\flavor.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\pages\flav_sel\flav_sel.js">
+      <PackagePath>pages\flav_sel\flav_sel.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\pages\base\base.html">
+      <PackagePath>pages\base\base.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\pages\boost\boost.html">
+      <PackagePath>pages\boost\boost.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\pages\final\final.html">
+      <PackagePath>pages\final\final.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\pages\flavor\flavor.html">
+      <PackagePath>pages\flavor\flavor.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\pages\flav_sel\flav_sel.html">
+      <PackagePath>pages\flav_sel\flav_sel.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\packages.config">
+      <PackagePath>packages.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\resource\data.txt">
+      <PackagePath>resource\data.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anthony\Documents\Visual Studio 2013\Projects\App5\App5\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0.Preview\1.0\">
+      <Name>Microsoft.WinJS.2.0.Preview</Name>
+      <Version>1.0.9431.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0.Preview, MinVersion=1.0.9431.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0.Preview\1.0\Microsoft.WinJS.2.0.Preview.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

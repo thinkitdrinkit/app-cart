@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-zh-hans"
+"ResourceDimensions"		"language-zh-cn"
+
+[Files]
+"C:\Users\Anthony\Desktop\APP\App5v9\App5\bld\x64\Debug\split.language-zh-hans.pri"			"resources.pri"

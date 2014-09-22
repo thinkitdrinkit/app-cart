@@ -1,0 +1,1 @@
+copy the app5 file from here and put into folder that is backups, then work from the git local folder and not where you just put the backup. So its backwards from what I'm used to, but this way I can track all the history in github

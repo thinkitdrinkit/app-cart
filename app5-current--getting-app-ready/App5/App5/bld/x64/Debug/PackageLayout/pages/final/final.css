@@ -1,0 +1,184 @@
+﻿.final section[role=main] {
+    margin-left: 20px;
+    margin-right: 120px;
+    /*margin-top: -55px;*/
+}
+
+#boost_pic1, #boost_pic2, #boost_pic3 {
+    border: 3px solid #fff;
+}
+
+#boost_pic1 {
+    margin-left: 20px;
+}
+
+#your_boost li {
+    display: inline;
+    list-style: none;
+    float: left;
+    margin-left: 5px;
+}
+
+#final_header {
+    margin-top: -30px;
+}
+
+#my_boost1_name, #my_boost2_name, #my_boost3_name, #my_flav_name {
+    font-size: 18px;
+    width: auto;
+    /*height: 25px;*/
+    background-color: rgba(0,0,0,.6);
+    /*font-family: sans-serif;*/
+    font-weight: 500;
+    color: #fff;
+    padding-left: 2px;
+}
+
+#your_boost {
+    margin-top: 0px;
+    margin-left: -45px;
+    float: left;
+}
+
+#my_base_name {
+    background-color: rgba(0,0,0,.6);
+    font-size: 18px;
+    font-weight: 500;
+    width: auto;
+    color: #fff;
+    padding-left: 2px;
+}
+
+#find_name {
+    margin-top: 90px;
+    margin-left: -45px;
+}
+
+    #find_name ul li {
+        line-height: 1px;
+        list-style: none;
+    }
+
+input {
+    height: 25px;
+}
+
+.the_product_total {
+    float:left;
+}
+
+    /*#the_name li {
+        list-style: none;
+        line-height: 21px;
+        margin: 4px;
+    }*/
+
+        /*#the_name li p {
+            margin: 0;
+        }*/
+
+#float_right {
+    -ms-overflow-style: scrollbar;
+    -ms-scrollbar-base-color: activeborder;
+    overflow-x: visible;
+    overflow-y: visible;
+    margin-top: -8px;
+}
+
+#the_name {
+    float: left;
+    margin-top: 473px;
+    position: absolute;
+    font-size: 35px;
+    width: 1560px;
+    height: 80px;
+}
+
+#the_total {
+font-size: 30px;}
+
+#the_name_total1 {
+    float: left;
+    margin-top: 5px;
+}
+
+#the_name_total2 {
+    float: left;
+    margin-top: 5px;
+    margin-left: 40px;
+}
+
+#the_name_total3 {
+    float: left;
+    margin-top: 5px;
+    margin-left: 40px;
+}
+
+#the_name_sub {
+    float: right;
+}
+
+#the_name_con {
+    float: right;
+}
+
+#sub_button {
+    /*margin-top: -58px;*/
+    /*position: absolute;*/
+    margin-left: 20px;
+}
+
+#the_name_sub {
+    float: right;
+}
+
+#my_boost1_img_final, #my_boost2_img_final, #my_boost3_img_final, #my_base_img_final, #my_flav_img_final, #my_base_label_img_final, #my_flav_label_img_final, #sel_base_pic_final, #my_boost1_img_label_final, #my_boost2_img_label_final, #my_boost3_img_label_final {
+    /*position: absolute;*/
+    border: 2px solid #c8060c;
+    z-index: -1;
+    float: left; 
+}
+
+#my_base, #my_boost1, #my_boost2, #my_boost3 {
+    width: auto;
+    float: left;
+    margin-left: 15px;
+}
+
+#my_flav {
+    /*position: absolute;*/
+    width: auto;
+    float: left;
+    margin-left: 15px;
+    margin-bottom: 5px;
+
+}
+
+#my_flav_label_img {
+    width: 200px;
+    height: auto;
+    float: left;
+    /*margin-left: 50px;*/
+}
+
+#sel_base_pic_final, #my_boost1_img_label_final, #my_boost2_img_label_final, #my_boost3_img_label_final, #my_flav_label_img_final  {
+    width: 200px;
+    height: auto;
+    float: left;
+}
+
+#my_base_img {
+    float: left;
+}
+
+#con_button {
+    margin-left: 40px;
+    /*margin-top: -58px;*/
+    /*position: absolute;*/
+}
+
+#my_picked_grouped {
+    float: left;
+    position: absolute;
+    margin-left: 375px;
+}

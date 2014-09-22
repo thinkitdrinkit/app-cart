@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-140"
+"ResourceDimensions"		"scale-140"
+
+[Files]
+"C:\Users\Anthony\Desktop\APP\App5v9\App5\bld\x64\Debug\split.scale-140.pri"			"resources.pri"
+"C:\Users\Anthony\Desktop\APP\App5v9\App5\bld\x64\Debug\PackageLayout\images\SmallLogo.scale-140.png"			"images\SmallLogo.scale-140.png"

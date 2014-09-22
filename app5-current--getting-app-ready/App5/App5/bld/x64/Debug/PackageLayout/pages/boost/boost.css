@@ -1,0 +1,295 @@
+﻿.boost section[role=main] {
+    margin-left: 110px;
+    margin-right: 120px;
+}
+
+#picked_age {
+    font-size: 50px;
+}
+
+#choosen_age_pic, #choosen_base_pic {
+    width: 80px;
+    height: 80px;
+    border: 1px solid #c8060c;
+}
+
+#choosen_base {
+    width: auto;
+}
+
+#choosen_base_pic {
+    margin-left: -140px;
+}
+
+#boost_header {
+    margin-top: -30px;
+}
+
+.boost_bg_img_class {
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    z-index: -1;
+}
+
+#boost_list_id{
+    width: 300px;
+    height: 250px;
+    border: 3px solid #c8060c;
+}
+
+#boost_name {
+    width: auto;
+    height: 35px;
+    color: #fff;
+    font-weight: 800;
+    margin-top: 210px;
+    background-color: rgba(0,0,0,.6);
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+#flav2_pic {
+    border: 2px solid #fff;
+    margin-left: 15px;
+}
+
+#boost_list_placement {
+    margin-top: -15px;
+    margin-left: -100px;
+    height: 290px;
+}
+
+overError {
+    font-size: 40px;
+}
+
+#choosen_bg_img {
+    float: left;
+    width: 250px;
+    height: auto;
+    background-color: #fff;
+    border: 2px solid #c8060c;
+    margin-right: 10px;
+}
+
+.the_choosen_boost {
+    overflow: auto;
+    width: 700px;
+    background-color: #fff;
+    height: 200px;
+    /*margin-top: 2px;*/
+}
+
+#choosen_boost_info_placement {
+    margin-left: -100px;
+    width: 710px;
+    height: 215px;
+    margin-top: 23px;
+}
+
+#info_btn3 {
+    height: 60px;
+    margin-top: 128px;
+    position: absolute;
+    margin-left: 233px;
+    font-size: 15px;
+}
+
+#sel_btn3 {
+    /*margin-left: 5px;*/
+    margin-top: 128px;
+    position: absolute;
+    background-color: #FF7C00;
+    height: 60px;
+    font-size: 20px;
+    text-transform: uppercase;
+    /*margin-left: 20px;*/
+}
+
+#choosen_boost_area_placement {
+    margin-left: 630px;
+    margin-top: -200px;
+    width: auto;
+    height: 120px;
+}
+
+#area_img {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    z-index: -1;
+}
+
+.the_boost_area {
+    width: 100px;
+    height: 100px;
+    float: left;
+    border: 2px solid #0945e9;
+}
+
+#btn_right {
+    margin-left: 1130px;
+    position: absolute;
+    margin-top: 58px;
+    width: 350px;
+    height: 100px;
+}
+
+.area_img_class {
+    border: 2px solid #FF7C00;
+    position: absolute;
+    z-index: -1;
+    -ms-filter: grey(100%);
+}
+
+#the_test {
+    margin-left: 630px;
+    margin-top: -145px;
+    margin-bottom: 5px;
+}
+
+#choosen_info {
+    font-size: 12px;
+}
+
+#flav2_div {
+    float: left;
+}
+
+#flav2_p {
+    position: absolute;
+    color: #fff;
+    font-weight: 700;
+    height: 33px;
+    background-color: rgba(0,0,0,.6);
+    margin-left: 17px;
+    font-size: 10px;
+    width: 112px;
+    margin-top: 57px;
+    padding-left: 3px;
+    padding-top: 2px;
+}
+
+#base_p {
+    position: absolute;
+    color: #fff;
+    height: 33px;
+    background-color: rgba(0,0,0,.6);
+    margin-left: 17px;
+    font-weight: 700;
+    font-size: 10px;
+    width: 112px;
+    margin-top: 57px;
+    padding-left: 3px;
+    padding-top: 2px;
+}
+
+#base_pic_footer {
+    border: 2px solid #fff;
+    margin-left: 15px;
+}
+
+#base_div {
+    float: left;
+}
+
+#age_p {
+    position: absolute;
+    color: #fff;
+    font-weight: 700;
+    height: 33px;
+    background-color: rgba(0,0,0,.6);
+    margin-left: 17px;
+    font-size: 10px;
+    width: 112px;
+    margin-top: 57px;
+    padding-left: 3px;
+    padding-top: 2px;
+}
+
+#hidden_p {
+    margin-top: 0;
+}
+
+#the_number, #the_num {
+    color: #FF7C00;
+    font-weight: bold;
+}
+
+#choosen_name {
+    font-weight: bold;
+}
+
+.sel_look_btn {
+    font-size: 35px;
+    height: 60px;
+    margin-left: 120px;
+    text-transform: uppercase;
+}
+
+#del_btn10 {
+    height: 60px;
+    position: absolute;
+    font-size: 15px;
+}
+button, input[type=button], input[type=submit], input[type=reset], input[type=file]::-ms-browse {
+    /*background-color: #FF7C00;
+    border-color: #FF7C00;*/
+    color: white;
+    border-color: transparent;
+    background-clip: border-box;
+}
+
+#where_you_are4 {
+    margin-left: 540px;
+    margin-top: 30px;
+    position: absolute;
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+}
+
+#boost1_div, #boost2_div, #boost3_div {
+    margin-left: 10px;
+    width: 150px;
+    height: 124px;
+    float: left;
+}
+#div_boost1_name, #div_boost2_name, #div_boost3_name {
+    background-color: rgba(0,0,0,.6);
+    color: #fff;
+    width: 145px;
+    height: 24px;
+    margin-top: 102px;
+    padding-left: 5px;
+    margin-left: 2px;
+}
+#choosen_boost_info_placement .win-viewport {
+    overflow-x: hidden;
+}
+/*Milo this actually works to fix glitch when too many products are hit at the same time, it DOES NOT SHOW UP IN THE CSS DOM eXPLORER DUNNO WHY BUT IT WORKS!!*/
+#boost_list_placement .win-viewport {
+   
+}
+#contenthost {
+    margin-top: 0;
+}
+
+#div_boost2_name_duplicate {
+    font-size: larger;
+    color: red;
+    position: relative;
+    /*float: left;*/
+    margin-top: -130px;
+    margin-left: 5px;
+    font-weight: 900;
+}
+#only_one_warning {
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: red;
+}

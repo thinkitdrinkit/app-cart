@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>supl_sport_item_info</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-light.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <link href="supl_sport_item_info.css" rel="stylesheet" />
+    <script src="supl_sport_item_info.js"></script>
+</head>
+<body>
+
+        <div class="sport_info fragment">
+            <header id="sport_info_header" aria-label="Header content" role="banner" class="print_charm">
+                <button data-win-control="WinJS.UI.BackButton"></button>
+                <h1 id="item_name" class="titlearea win-type-ellipsis"></h1>
+            </header>
+            <progress id="progressRing" class="win-ring win-large" style="visibility: hidden"></progress>
+
+            <section id="win_listview_host" aria-label="Main content" role="main">
+
+                <!-- Milo: added data stuff from http://msdn.microsoft.com/en-us/library/windows/apps/dn609715.aspx -->
+                <!--<div id="sport_info" class="sport_info_class" data-win-control="WinJS.Binding.Template">
+                        
+                </div>-->
+
+                <!--<div id="sport_template_placement" data-win-control="WinJS.UI.ListView" data-win-bind="winControl.itemDataSource: item_info_sport.dataSource" data-win-options="{
+            itemTemplate: select ('.sport_info_class'),
+            selectionMode: 'none',
+            tapBehavior: 'none'
+            }"></div>-->
+                <!--milo: WinJS.Binding.Template ends  -->
+
+                <div id="webview_wrap">
+
+                    <div id="sport_info2" class="print_charm_content">
+                        <x-ms-webview id="webview"></x-ms-webview>
+                    </div>
+
+                    <div id="link_wrap_remove_stuff">
+                        <x-ms-webview id="webview2"></x-ms-webview>
+                    </div>
+                </div>
+        </section>
+        <footer id="main_footer" class="print_charm">
+            <div id="scroll_bar" hidden=""></div>
+            <div id="scroll_bar2" hidden=""></div>
+
+            <h1 id="footer_company_name"></h1><!-- this is being styled in the default.js folder -->
+        </footer>
+    </div>
+       
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+Language=de-DE
+Language=es-ES
+Language=fr-FR
+Language=it-IT
+Language=ja-JP
+Language=ko-KR
+Language=ru-RU
+Language=zh-CN
+Language=zh-TW
+Scale=140
+Scale=180
